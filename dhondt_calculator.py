@@ -1,15 +1,3 @@
-# obtain next seat given computed vote grid
-def next_seat(grid):
-    # find the maximum element in the grid
-    current_max = -1
-    for idx, row in enumerate(grid):
-        for elem in row:
-            if elem > current_max:
-                current_max, max_idx = elem, idx
-    # remove maximum from grid
-    grid[max_idx].remove(current_max)
-    # return corresponding row (party/movement)
-    return max_idx
 
 
 # d'Hondt seating allocation method
@@ -23,3 +11,17 @@ def compute(nr_of_seats, vote_counts):
     for seat in range(nr_of_seats):
         seats[next_seat(grid)] += 1
     return seats
+
+
+# obtain next seat given computed vote grid
+def next_seat(grid):
+    # find the maximum element in the grid
+    current_max = -1
+    for index, row in enumerate(grid):
+        for elem in row:
+            if elem > current_max:
+                current_max, max_index = elem, index
+    # remove maximum from grid
+    grid[max_index].remove(current_max)
+    # return corresponding row (party/movement)
+    return max_index
