@@ -1,6 +1,3 @@
-
-
-# d'Hondt seating allocation method
 def compute(nr_of_seats, vote_counts):
     grid = generate_grid(nr_of_seats, vote_counts)
     seat_allocation = compute_seat_allocation(grid)
@@ -16,7 +13,7 @@ def generate_grid(nr_of_seats, vote_counts):
 
 def compute_seat_allocation(grid):
     vote_counts = len(grid)
-    seat_allocation = [0] * len(vote_counts)
+    seat_allocation = [0] * vote_counts
     allocate_seats(seat_allocation, grid)
     return seat_allocation
 
