@@ -64,15 +64,14 @@ def generate_result_file(filename, actual_results, hypothetical_results):
 
 # main method
 def main(input_file, output_file):
-    # obtain data
-    # list of tuples: (constituency or legislature, location or name, number of seats, vote counts)
+    # list of tuples: (legislature or electoral body, location or name, number of seats, vote counts)
     election_data = extract_data(input_file)
-    # compute actual results from each city
-    # list of tuples: (constituency, location, number of seats, list of seat allocations)
+    # compute actual results for each legislature or electoral body
+    # list of tuples: (legislature, location, number of seats, list of seat allocations)
     actual_results = compute_actual_results(election_data)
-    # next, compute hypothetical results for each city considering coalitions of parties from last to second place
+    # next, compute hypothetical results for each legislature considering coalitions of parties from last to second place
     hypothetical_results = compute_hypothetical_results(election_data)
-    # produce text file with results
+    # produce csv file with results
     generate_result_file(output_file, actual_results, hypothetical_results)
 
 
