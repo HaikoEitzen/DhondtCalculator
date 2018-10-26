@@ -62,7 +62,6 @@ def generate_result_file(filename, actual_results, hypothetical_results):
                     csv_writer.writerow(hypothetical_results_row)
 
 
-# main method
 def main(input_file, output_file):
     # list of tuples: (legislature or electoral body, location or name, number of seats, vote counts)
     election_data = extract_data(input_file)
@@ -76,7 +75,7 @@ def main(input_file, output_file):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Dhondt Calculator')
+    parser = argparse.ArgumentParser(description="D'Hondt Calculator")
     parser.add_argument("input_filename")
     parser.add_argument("output_filename")
     args = parser.parse_args()
