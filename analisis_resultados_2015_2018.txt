@@ -1,0 +1,118 @@
+286	172	78
+Junta municipal                         	Concepción Concepción                   	   12	    7	    5
+Junta municipal                         	Concepción Azotey                       	    9	    4	    3
+Junta municipal                         	Concepción Loreto                       	    9	    3	    2
+Junta municipal                         	San Pedro San Pedro del Ycuamandyyú     	   12	    5	    2
+Junta municipal                         	San Pedro Antequera                     	    9	    3	    2
+Junta municipal                         	San Pedro Gral Elizardo Aquino          	   12	    5	    3
+Junta municipal                         	San Pedro Guajayvi                      	    9	    6	    5
+Junta municipal                         	San Pedro Liberacion                    	    9	    4	    3
+Junta municipal                         	San Pedro San Estanislao                	   12	    6	    3
+Junta municipal                         	Cordillera Atyrá                        	    9	    5	    4
+Junta municipal                         	Cordillera Emboscada                    	    9	    5	    3
+Junta municipal                         	Cordillera Eusebio Ayala                	   12	    5	    3
+Junta municipal                         	Cordillera Nueva Colombia               	    9	    3	    2
+Junta municipal                         	Cordillera Santa Elena                  	    9	    5	    4
+Junta municipal                         	Guairá Villarrica                       	   12	    6	    4
+Junta municipal                         	Guairá Dr Botrell                       	    9	    6	    4
+Junta municipal                         	Guairá Gral E A Garay                   	    9	    3	    2
+Junta municipal                         	Guairá Independencia                    	    9	    8	    6
+Junta municipal                         	Guairá Natalicio Talavera               	    9	    4	    2
+Junta municipal                         	Guairá Paso Yobái                       	    9	    6	    4
+Junta municipal                         	Caaguazú Coronel Oviedo                 	   12	    5	    3
+Junta municipal                         	Caaguazú Carayaó                        	    9	    5	    3
+Junta municipal                         	Caaguazú Dr Cecilio Báez                	    9	    3	    2
+Junta municipal                         	Caaguazú Repatriación                   	   12	    4	    3
+Junta municipal                         	Caazapá Abaí                            	   12	    6	    4
+Junta municipal                         	Caazapá Buena Vista                     	    9	    3	    2
+Junta municipal                         	Itapúa Encarnación                      	   12	   12	    9
+Junta municipal                         	Itapúa Capitán Miranda                  	   12	    4	    2
+Junta municipal                         	Itapúa Fram                             	   12	    6	    2
+Junta municipal                         	Itapúa General Artigas                  	   12	    4	    3
+Junta municipal                         	Itapúa General Delgado                  	    9	    5	    3
+Junta municipal                         	Itapúa San Cosme y Damián               	    9	    4	    3
+Junta municipal                         	Itapúa San Juan del Paraná              	   12	    5	    3
+Junta municipal                         	Misiones Ayolas                         	   12	    6	    5
+Junta municipal                         	Misiones San Ignacio                    	   12	    6	    3
+Junta municipal                         	Misiones Santiago                       	   12	    3	    2
+Junta municipal                         	Misiones Yavevyry                       	   12	    4	    3
+Junta municipal                         	Paraguarí Acahay                        	    9	    8	    6
+Junta municipal                         	Alto Paraná Dr Raúl Peña                	    9	    5	    4
+Junta municipal                         	Alto Paraná Domingo Martínez de Irala   	    9	    4	    3
+Junta municipal                         	Alto Paraná Los Cedrales                	   12	    7	    4
+Junta municipal                         	Alto Paraná Mbaracayú                   	   12	    6	    4
+Junta municipal                         	Alto Paraná Minga Guazú                 	   12	    9	    8
+Junta municipal                         	Alto Paraná San Alberto                 	   12	   11	    3
+Junta municipal                         	Alto Paraná Tavapy                      	    9	    7	    6
+Junta municipal                         	Alto Paraná Yguazú                      	   12	    7	    5
+Junta municipal                         	Central Areguá                          	   12	   10	    5
+Junta municipal                         	Central Capiatá                         	   12	    9	    7
+Junta municipal                         	Central Itauguá                         	   12	    8	    5
+Junta municipal                         	Central J Augusto Saldívar              	   12	    8	    7
+Junta municipal                         	Central Nueva Italia                    	    9	    4	    3
+Junta municipal                         	Ñeembucú Pilar                          	   12	    8	    4
+Junta municipal                         	Ñeembucú Cerrito                        	   12	    3	    2
+Junta municipal                         	Ñeembucú San Juan Bautista              	    9	    3	    2
+Junta municipal                         	Ñeembucú Villa Oliva                    	    9	    3	    2
+Junta municipal                         	Amambay Pedro J Caballero               	   12	    9	    4
+Junta municipal                         	Canindeyú Salto del Guiará              	   12	   13	    4
+Junta municipal                         	Canindeyú Villa Ygatimí                 	    9	    5	    2
+Junta municipal                         	Canindeyú Yasy Cañy                     	    9	    5	    3
+Junta municipal                         	Canindeyú Yby Pyta                      	    9	    7	    5
+Junta municipal                         	Alto Py. Puerto Casado                  	   12	    8	    7
+Junta municipal                         	Alto Py. Carmelo Peralta                	    9	    4	    3
+Diputados                               	Capital                                 	    7	   30	   21
+Diputados                               	Concepción                              	    3	   11	   10
+Diputados                               	San Pedro                               	    5	   13	   11
+Diputados                               	Guiará                                  	    3	   11	   10
+Diputados                               	Itapúa                                  	    6	   21	   16
+Diputados                               	Paraguarí                               	    4	   13	   11
+Junta Departamental                     	Concepción                              	   14	   13	    7
+Junta Departamental                     	Guiará                                  	   14	   17	   13
+Junta Departamental                     	Caaguazú                                	   21	   20	   16
+Junta Departamental                     	Caazapá                                 	   12	   11	    9
+Junta Departamental                     	Itapúa                                  	   21	   20	   14
+Junta Departamental                     	Paraguarí                               	   16	   16	   14
+Junta Departamental                     	Alto Paraná                             	   21	   28	    9
+Junta Departamental                     	Amambay                                 	   11	   13	    8
+Junta Departamental                     	Canindeyú                               	   12	   16	   14
+Junta Departamental                     	Alto Paraguay                           	    7	   11	    6
+286	63	38
+Junta municipal                         	Concepción Horqueta                     	   12	    5	    3
+Junta municipal                         	Concepción Yby Yaú                      	   12	    4	    2
+Junta municipal                         	Cordillera Piribebuy                    	   12	    5	    4
+Junta municipal                         	Caaguazú Caaguazú                       	   12	   10	    3
+Junta municipal                         	Caaguazú Dr J E Estigarribia            	   12	    6	    5
+Junta municipal                         	Caaguazú Dr Juan M Frutos               	   12	    6	    3
+Junta municipal                         	Itapúa Cambyreta                        	   12	    6	    5
+Junta municipal                         	Itapúa Coronel Bogado                   	   12	    6	    3
+Junta municipal                         	Itapúa Jesús                            	   12	    4	    3
+Junta municipal                         	Itapúa San Rafael del Paraná            	   12	    4	    3
+Junta municipal                         	Itapúa Tomás Romero Pereira             	   12	    7	    3
+Junta municipal                         	Misiones San Juan Bautista              	   12	    4	    3
+Junta municipal                         	Misiones Santa Rosa                     	   12	    6	    4
+Junta municipal                         	Paraguarí Caapucú                       	   12	    4	    3
+Junta municipal                         	Paraguarí Carapeguá                     	   12	    7	    2
+Junta municipal                         	Alto Paraná Ciudad del Este             	   12	   17	    7
+Junta municipal                         	Alto Paraná Dr J L Mallorquín           	   12	    4	    2
+Junta municipal                         	Alto Paraná Juan E O'Leary              	   12	    4	    3
+Junta municipal                         	Alto Paraná Presidente Franco           	   12	    9	    4
+Junta municipal                         	Alto Paraná Santa Fe del Paraná         	   12	    4	    3
+Junta municipal                         	Central Fernando de la Mora             	   12	    7	    4
+Junta municipal                         	Central Guarambaré                      	   12	    7	    6
+Junta municipal                         	Central Lambaré                         	   12	   14	    6
+Junta municipal                         	Central Limpio                          	   12	    7	    4
+Junta municipal                         	Central Luque                           	   12	   12	    8
+Junta municipal                         	Central Ñemby                           	   12	   14	   10
+Junta municipal                         	Central San Antonio                     	   12	    8	    7
+Junta municipal                         	Central San Lorenzo                     	   12	   12	    7
+Junta municipal                         	Central Villa Elisa                     	   12	   10	    8
+Junta municipal                         	Central Villeta                         	   12	   11	    5
+Junta municipal                         	Central Ypacaraí                        	   12	    5	    2
+Junta municipal                         	Central Ypané                           	   12	    9	    7
+Junta municipal                         	Ñeembucú Mayor J Martínez               	   12	    4	    2
+Junta municipal                         	Canindeyú Katueté                       	   12	    9	    3
+Junta municipal                         	Canindeyú Nueva Esperanza               	   12	   10	    5
+Junta municipal                         	Boquerón Loma Plata                     	   12	    7	    6
+Diputados                               	Alto Paraná                             	    8	   30	   17
+Junta Departamental                     	Cordillera                              	   18	   19	   15
